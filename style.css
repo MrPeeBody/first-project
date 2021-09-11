@@ -2,7 +2,7 @@
 
 p {
     color: red;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .container__ch {
@@ -15,7 +15,7 @@ p {
     display: flex;
     min-height: 200px;
     justify-content: space-evenly;
-    border: 3px transparent dotted;
+    border: 3px greenyellow dotted;
     max-width: 80%;
     margin: 0 auto;
 
